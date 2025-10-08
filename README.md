@@ -12,6 +12,7 @@ The purpose of this directory is to:
 ## Structure
 
 - **VerseVolumes**: Contains Verse scripts and assets tailored for testing and experimentation. These scripts utilize an object-oriented programming (OOP) design with multiple interfaces and abstract classes to define the behavior and structure of a "volume."
+- OOP is not my favorite, and ultimately an ECS design is preferable for something like this, but I had free-time and wanted a simple project to demonstrate understanding of the concepts.
 
 ## Usage
 
